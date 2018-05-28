@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/hello-world/</loc>
+    <lastmod>2018-05-28T17:18:02+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/new/</loc>
     <lastmod>2018-05-28T17:18:02+03:00</lastmod>
   </url>
