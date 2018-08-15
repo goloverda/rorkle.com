@@ -1,8 +1,10 @@
 ---
 title: "Best Laptops for Divinity Original Sin 2"
-date: 2018-05-28T17:18:02+03:00
+date: 2018-06-15T17:18:02+03:00
 thumbnail: "img/Divinity Original Sin 2/Best Laptops for Divinity Original Sin 2.jpg"
 ---
+
+{{< load-photoswipe >}}
 
 Not everyone now needs a home PC. A huge number of people now work as freelancers, programmers, designers. And as practice shows, such people prefer a powerful gaming laptop that would cope with all sorts of programs and heavy toys. Therefore, below is a list of gaming laptops, which quietly compete, even the most powerful gaming PC.
 
